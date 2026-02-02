@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello and Welcome! 👋
 
 <!--
 **dominikki10/dominikki10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
